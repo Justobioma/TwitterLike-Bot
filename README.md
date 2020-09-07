@@ -1,0 +1,2 @@
+# TwitterLike-Bot
+This is a Tweetbot that I coded in Python with the help of a Youtube video and other web resources. It uses the Selenium library and is designed to log into a user's Twitter account, do a search for a defined term, scroll down the page and like the selected accounts. As it is now in version 1, it does all as defined except to "like" the accounts. This will be fixed in the next iteration.
